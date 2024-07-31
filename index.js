@@ -16,5 +16,5 @@ app.listen(porta, () => {
 });
 
 app.get('/', (request, response) => {
-    response.send('teste 23');
+    response.send('teste 10');
 });
